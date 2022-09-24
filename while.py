@@ -1,4 +1,5 @@
-i=0
-while i<5,i++:
-    
-    print("x="+str(x))
+i = 1
+while i < 6:
+  print(i)
+  
+  i += 1 

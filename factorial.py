@@ -5,4 +5,4 @@ def factorial(n):
     return result
 
 for n in range(1,10):
-    print(n, factorial(n)
+    print(n, factorial(n))

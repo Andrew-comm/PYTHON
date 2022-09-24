@@ -5,6 +5,8 @@ def triangle(base,heigth):
 def rectangle(base,heigth):
     return base*heigth
 def circle(radius):
-    return math.pi(radius**2)
+    return (3.142* radius)
 
 print(triangle(4,5))
+print(circle(14))
+print(rectangle(7,6))
