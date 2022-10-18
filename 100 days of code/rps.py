@@ -1,5 +1,6 @@
 import random
 
+
 CHOICES = 'rps'
 
 
