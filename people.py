@@ -23,4 +23,4 @@ people = [
 ]
 
 with open('people.json', 'w') as people_json:
-    js.dump(people, people_json)
+    js.dump(people, people_json, indent=2)
