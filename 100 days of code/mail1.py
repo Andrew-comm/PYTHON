@@ -1,4 +1,5 @@
-#trying to connect  server gives error needs ssl to work
+
+#!/usr/bin/env python3
 import mailbox
 import smtplib
 import getpass
